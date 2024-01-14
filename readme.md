@@ -1,4 +1,6 @@
-# Structure from Motion - Implementation in Python
+# UWROV's Adaptation of 'Structure from Motion - Implementation in Python'
+
+I took all of this code from this original repo ^
 
 You can use the dataset from https://www.eth3d.net/datasets
 
